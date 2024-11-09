@@ -66,7 +66,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 sh
-  cd my-folder
+  cd HELLO_CODEGISOFT
   git clone https://github.com/JoshuaNK0/Hello_Codegisoft.git Academy.git
 
 
@@ -75,7 +75,7 @@ sh
 Install this project with:
 
 sh
-  cd my-folder
+  cd HELLO_CODEGISOFT
   npm install
 
 
@@ -124,4 +124,4 @@ I will like to thank Codegisoft Academy and all the students i've collaborated w
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT.md) licensed.
+This project is [LICENSE](LICENSE.md) licensed.
